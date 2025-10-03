@@ -54,11 +54,11 @@ The dataset is organized into 3 folders (train, val & test) and contains subfold
 
 Following are the tools/frameworks used in developing the application:
 
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-- [Python](https://www.python.org/)
-- [Flask](https://palletsprojects.com/p/flask/)
-- [HTML](https://en.wikipedia.org/wiki/HTML)
-- [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+- [CSS]
+- [Python]
+- [Flask]
+- [HTML]
+- [OpenCV]
 
 ## Getting Started
 
