@@ -1,20 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rppradhan08/pneumonia-detection">
-    <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/logo.PNG" alt="Logo" width="200px" height="100px">
+  <a href="https://github.com/Atharva722/Pneumonia_Detection">
   </a>
 
-  <p align="center">
-    Pneumonia Detection using CNN
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection">View Demo</a>
-    ·
-    <a href="https://github.com/rppradhan08/pneumonia-detection/issues">Report Bug</a>
-  </p>
+ 
 </p>
 
 <!-- TABLE OF CONTENTS -->
